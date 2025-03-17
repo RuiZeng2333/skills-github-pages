@@ -1,54 +1,20 @@
 <header>
-
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
-
-# GitHub Pages
-
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+曾睿的个人网站
+欢迎来到我的主页，我是一名专注于数据结构与算法及编译原理的计算机科学本科生，热衷于探索技术无限可能。
 
 </header>
+关于我
+大家好，我是曾睿，目前就读于美国ASU大学计算机科学与技术专业。在校期间，我深入学习了数据结构与算法，能够设计并分析排序、搜索、递归和分治等基本算法，同时对编译器整体结构和工作流程有扎实的认识。逻辑清晰、善于解决问题，并具备优秀的团队协作能力，能够迅速适应快节奏的工作环境。
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
-
-## Step 1: Enable GitHub Pages
-
-_Welcome to GitHub Pages and Jekyll :tada:!_
-
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
-
-### :keyboard: Activity: Enable GitHub Pages
-
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
-
+教育背景
+小学：广州市海珠区万松园小学 (2008 - 2014)
+初中：广州市第97中学 (2014 - 2017)
+高中：
+广州市第97中学 (2017 - 2018)
+Northeastern Wisconsin Lutheran High School (2018 - 2021)
+大学：美国ASU大学（2022至今，计算机科学与技术专业）
+技能
+编程语言：Python、Java、C++
+算法设计：数据结构、排序、搜索、递归、分治算法及复杂度分析
+编译原理：了解编译器整体结构和工作流程，掌握将高级编程语言转换为目标机器代码的技术
 <footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
